@@ -3,6 +3,9 @@
     <style name="Base.Theme._24012011009_MAD_Assignment1" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="cardBackgroundColor">#F3F7FC</item>
+        <color name="card_stroke">#D6E2F0</color>
     </style>
 
     <style name="Theme._24012011009_MAD_Assignment1" parent="Base.Theme._24012011009_MAD_Assignment1" />

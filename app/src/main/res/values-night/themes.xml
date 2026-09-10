@@ -3,5 +3,8 @@
     <style name="Base.Theme._24012011009_MAD_Assignment1" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorSurface">#000000</item>
+        <item name="cardBackgroundColor">#1E2630</item>
+        <color name="card_stroke">#394653</color>
     </style>
 </resources>
